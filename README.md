@@ -25,22 +25,20 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/h5qcc0D' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Kap.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- It's been a while since I used Javascript so recalling some the syntax was a little hard. I had to rely on the Mozilla documentation a lot.
+- I did not utilize console.log() as much as I should have. It definitely would have saved me a lot of headaches.
+- Understanding the spread operator took a bit more thinking than the other challenges.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Wesley Alejandro
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
